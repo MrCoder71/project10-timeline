@@ -11,7 +11,7 @@ import mongodbimg from '../assets/images/mongodbimg.png';
 import phpimg from '../assets/images/phpimg.png';
 
 const Timeline = () => {
-    
+
     return (
 
         <div className='main'>
@@ -56,7 +56,7 @@ const Timeline = () => {
 
                         <h2 className='javascripttext'> JavaScript </h2>
 
-                        <small> <span className='company'> [ Company Name ] </span> 2018 - 2019 </small>
+                        <small> <span className='company'> [ Company Name ] </span> 2023 - 2024 </small>
 
                         <p>
                             MR Coder has 1 year of experience at [Company Name], focusing on JavaScript.
@@ -81,7 +81,7 @@ const Timeline = () => {
 
                         <h2 className='reactjstext'> React Js </h2>
 
-                        <small> <span className='company'> [ Company Name ] </span> 2018 - 2019 </small>
+                        <small> <span className='company'> [ Company Name ] </span> 2023 - 2024 </small>
 
                         <p>
 
@@ -108,7 +108,7 @@ const Timeline = () => {
 
                         <h2 className='nodejstext'> Node Js </h2>
 
-                        <small> <span className='company'> [ Company Name ] </span> 2018 - 2019 </small>
+                        <small> <span className='company'> [ Company Name ] </span> 2023 - 2024 </small>
 
                         <p>
 
@@ -136,7 +136,7 @@ const Timeline = () => {
 
                         <h2 className='expressjstext'> Express Js </h2>
 
-                        <small> <span className='company'> [ Company Name ] </span> 2018 - 2019 </small>
+                        <small> <span className='company'> [ Company Name ] </span> 2023 - 2024 </small>
 
                         <p>
                             MR Coder has 1 year of experience at [Company Name], focusing on Express.js.
@@ -161,7 +161,7 @@ const Timeline = () => {
 
                         <h2 className='mongodbext'> MongoDB </h2>
 
-                        <small> <span className='company'> [ Company Name ] </span> 2018 - 2019 </small>
+                        <small> <span className='company'> [ Company Name ] </span> 2023 - 2024 </small>
 
                         <p>
                             MR Coder has 1 year of experience at [Company Name], working with MongoDB.
@@ -186,7 +186,7 @@ const Timeline = () => {
 
                         <h2 className='phptext'> PHP </h2>
 
-                        <small> <span className='company'> [ Company Name ] </span> 2018 - 2019 </small>
+                        <small> <span className='company'> [ Company Name ] </span> 2023 - 2024 </small>
 
                         <p>
                             MR Coder has 1 year of experience at [Company Name], specializing in PHP.
