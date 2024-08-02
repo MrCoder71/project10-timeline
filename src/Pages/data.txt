@@ -1,0 +1,73 @@
+
+Copy to Paste 
+
+:root {
+
+    --background-color: #112e42;
+
+    --main-color:       #00abf0;
+
+    --htm-color:        #f06529;
+
+    --javascript-color: #fdd634;
+
+    --reactjs-color:    #00d8ff;
+
+    --nodejs-color:     #6caa48;
+
+    --expressjs-color:  #01041d;
+
+    --mongodb-color:    #599636;
+
+    --php-color:        #484c89;
+
+}
+
+HTML Experience : 
+
+    MR Coder has 1 years of experience at [Company Name], specializing in HTML.
+    They developed responsive, accessible web pages, optimized performance, and
+    ensured cross-browser compatibility for enhanced user experiences.
+
+
+javascript Experience:
+
+    MR Coder has 1 year of experience at [Company Name], focusing on JavaScript.
+    They developed interactive web applications, optimized code for performance,
+    and implemented dynamic features to enhance user engagement.
+
+
+React Js Experience:
+ 
+    MR Coder has 1 year of experience at [Company Name] in React.js,
+    building scalable single-page applications, creating reusable components,
+    and managing state for improved performance and user experience.
+
+
+Node Js Experience:
+    
+    MR Coder has 1 year of experience at [Company Name] in Node.js,
+    developing server-side applications, creating RESTful APIs, and
+    optimizing backend performance for efficient data handling and
+    seamless integration.
+
+
+Express Js Experience:
+
+    MR Coder has 1 year of experience at [Company Name], focusing on Express.js.
+    They built and maintained RESTful APIs, handled server-side routing, and ensured
+    efficient application performance and scalability.
+
+
+MongoDB Experience:
+
+    MR Coder has 1 year of experience at [Company Name], working with MongoDB.
+    They managed databases, designed schemas, and optimized queries to ensure
+    efficient data storage and retrieval for applications.
+
+
+PHP Experience:
+  
+    MR Coder has 1 year of experience at [Company Name], specializing in PHP.
+    They developed server-side scripts, built dynamic web applications, and
+    integrated databases to enhance functionality and user interaction.
